@@ -6,8 +6,8 @@
 
 <h5 align="center">
   <code>
-    <a href="https://www.linkedin.com/in/maximilian-schmid-6b2189227" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg">LinkedIn</a></code>
-  <code><a href="https://www.instagram.com/maxi03milian/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
+    <a href="https://www.linkedin.com/in/maximilian-schmid-6b2189227" title="LinkedIn Profile"><img width="22" src="https://apply.maxischmid.ch/assets/linkedin.png">LinkedIn</a></code>
+  <code><a href="https://www.instagram.com/maxi03milian/" title="Instagram Profile"><img width="22" src="https://apply.maxischmid.ch/assets/[CITYPNG.COM]HD%20Square%20White%20Instagram%20Logo%20Icon%20PNG%20-%201066x960.png"> Instagram</a></code>
 </h5>
 <br>
 <p align="center">
@@ -18,7 +18,7 @@
   <br>
   🎓 I am studying at the BBW Winterthur
   <br>
-  💻 I love writing code and learn anythings about it
+  💻 I love writing code and have a passion for technical things
   <br>
   📚 I’m currently learning the basics of Backend development and extending my Frontend know-how
   <br>
