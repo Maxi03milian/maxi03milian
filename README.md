@@ -36,6 +36,7 @@
   <code><img title="HTML5" height="25" src="./images/html-5.png"></code>
   <code><img title="CSS" height="25" src="./images/css-3.png"></code>
   <code><img title="React" height="25"src="./images/physics.png"></code>
+  <code><img title="Vue" height="25"src="./images/VueIcon.png"></code>
   <code><img title="Github" height="25" src="./images/git.png"></code>
   <code><img title="Visual Studio Code" height="25" src="./images/visual-studio.png"></code>
   <code><img title="Microsoft Visual Studio" height="25" src="./images/visual-studio.png"></code>
